@@ -1,6 +1,15 @@
-class TodoModel{
-    
-}
+// class TodoModel {
+//   var todo = Map<String, bool>();
+//   String text;
+//   bool feito;
+
+//   TodoModel(this.text, this.feito);
+
+//   TodoModel.estaFeito(){
+
+//   }
+// }
+
 
 // class UserModel {
 //   String? firstName;
